@@ -1,0 +1,16 @@
+C:\Users\J. Carlos B. Filho\Documents\Programas html\dotnet\DIO\bin\Debug\net5.0\DIO.exe
+C:\Users\J. Carlos B. Filho\Documents\Programas html\dotnet\DIO\bin\Debug\net5.0\DIO.deps.json
+C:\Users\J. Carlos B. Filho\Documents\Programas html\dotnet\DIO\bin\Debug\net5.0\DIO.runtimeconfig.json
+C:\Users\J. Carlos B. Filho\Documents\Programas html\dotnet\DIO\bin\Debug\net5.0\DIO.runtimeconfig.dev.json
+C:\Users\J. Carlos B. Filho\Documents\Programas html\dotnet\DIO\bin\Debug\net5.0\DIO.dll
+C:\Users\J. Carlos B. Filho\Documents\Programas html\dotnet\DIO\bin\Debug\net5.0\ref\DIO.dll
+C:\Users\J. Carlos B. Filho\Documents\Programas html\dotnet\DIO\bin\Debug\net5.0\DIO.pdb
+C:\Users\J. Carlos B. Filho\Documents\Programas html\dotnet\DIO\obj\Debug\net5.0\DIO.csproj.AssemblyReference.cache
+C:\Users\J. Carlos B. Filho\Documents\Programas html\dotnet\DIO\obj\Debug\net5.0\DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\J. Carlos B. Filho\Documents\Programas html\dotnet\DIO\obj\Debug\net5.0\DIO.AssemblyInfoInputs.cache
+C:\Users\J. Carlos B. Filho\Documents\Programas html\dotnet\DIO\obj\Debug\net5.0\DIO.AssemblyInfo.cs
+C:\Users\J. Carlos B. Filho\Documents\Programas html\dotnet\DIO\obj\Debug\net5.0\DIO.csproj.CoreCompileInputs.cache
+C:\Users\J. Carlos B. Filho\Documents\Programas html\dotnet\DIO\obj\Debug\net5.0\DIO.dll
+C:\Users\J. Carlos B. Filho\Documents\Programas html\dotnet\DIO\obj\Debug\net5.0\ref\DIO.dll
+C:\Users\J. Carlos B. Filho\Documents\Programas html\dotnet\DIO\obj\Debug\net5.0\DIO.pdb
+C:\Users\J. Carlos B. Filho\Documents\Programas html\dotnet\DIO\obj\Debug\net5.0\DIO.genruntimeconfig.cache
